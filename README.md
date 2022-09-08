@@ -1,1 +1,3 @@
 # minelab
+
+mining script 
